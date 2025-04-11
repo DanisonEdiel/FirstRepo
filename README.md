@@ -1,5 +1,5 @@
 
-# 🌟 Pokemon API Explorer
+# 🌟 First Practice
 
 This project is built with [Vue 3](https://vuejs.org/) and [Vuetify](https://next.vuetifyjs.com/), designed to offer a modern, accessible, and fully responsive user interface.
 
@@ -13,8 +13,8 @@ This project is built with [Vue 3](https://vuejs.org/) and [Vuetify](https://nex
 
 ```bash
 # Clone the repository
-git clone https://github.com/DanisonEdiel/diagnostic-test.git
-cd diagnostic-test
+git clone https://github.com/DanisonEdiel/practice1.git
+cd practice1
 
 # Install dependencies
 npm install
@@ -40,16 +40,16 @@ npm run lint
 
 ```
 src/
-├── assets/          # Static files like images or styles
-├── components/      # Reusable Vue components
-├── composables/     # Reusable logic using the Composition API
-├── layouts/         # App layouts (optional)
-├── pages/           # Main views or routes (if using Vue Router)
-├── plugins/         # Global configuration (Vuetify, Axios, etc.)
-├── router/          # Application routes
-├── store/           # Pinia or Vuex (if used)
-├── App.vue          # Root component
-└── main.ts          # Application entry point
+├── assets/          
+├── components/      
+├── composables/     
+├── layouts/         
+├── pages/           
+├── plugins/         
+├── router/          
+├── store/           
+├── App.vue          
+└── main.ts          
 ```
 
 ## ✨ Features
@@ -57,10 +57,6 @@ src/
 - ⚡ Fast and modular rendering with Vite
 - 📱 Fully responsive design
 - 📡 API consumption using Axios or Vue Query
-
-## 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/f3319e64-d900-4cfb-adee-babadeb5e3c2)
 
 
 
