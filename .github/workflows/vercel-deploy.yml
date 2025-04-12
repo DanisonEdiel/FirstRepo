@@ -32,7 +32,6 @@ jobs:
         env:
           NODE_ENV: production
 
-      # Use the official Vercel deployment action
       - name: Deploy to Vercel
         uses: amondnet/vercel-action@v20
         with:
