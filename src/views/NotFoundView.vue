@@ -10,7 +10,7 @@
       <v-card-text class="text-body-1 mb-6">
         Lo sentimos, la página que estás buscando no existe o ha sido movida.
       </v-card-text>
-      <v-btn color="primary" to="/" variant="elevated" size="large">
+      <v-btn color="primary" :to="{ name: 'Default' }" variant="elevated" size="large">
         Volver al inicio
       </v-btn>
     </v-card>
