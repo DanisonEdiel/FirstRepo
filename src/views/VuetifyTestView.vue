@@ -161,7 +161,7 @@ const isNextDisabled = computed<boolean>(() => {
       <v-row class="mb-4">
         <v-col cols="12">
           <v-card>
-            <v-card-title>Search Pokemon 👀</v-card-title>
+            <v-card-title>Search Pokemon 🚀</v-card-title>
             <v-card-text>
               <v-text-field v-model="searchQuery" label="Pokemon Name" prepend-inner-icon="mdi-magnify"
                  clearable @input="handleSearch"></v-text-field>
